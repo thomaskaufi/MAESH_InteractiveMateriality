@@ -1,6 +1,7 @@
 /*
 Code to run stepper at different speed based on serial message from processing sketch.
-Runs with a manual parse function to avoid blocking clockspeed when recieving serial.
+Runs with a manual parse function to avoid blocking clockspeed when recieving serial, based on example code by forumuser Robin2
+
 
 Giulia Talamini and Thomas Kaufmanas
 */
