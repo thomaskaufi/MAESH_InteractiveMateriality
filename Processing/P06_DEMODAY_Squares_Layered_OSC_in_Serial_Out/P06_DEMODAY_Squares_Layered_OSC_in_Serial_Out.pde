@@ -3,6 +3,7 @@
  * Interactive Materiality 2024
  *
  * Utilizes code from oscP5sendreceive by andreas schlegel and AIRLab Kinect Blob Tracker by Halfdan Hauch
+ * at URL: https://github.com/airlabitu/Processing-kinect-blob-tracker
  */
 import oscP5.*;
 import netP5.*;

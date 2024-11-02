@@ -3,6 +3,7 @@
  * Based on oscP5sendreceive by andreas schlegel
  *
  * This example receives Blob Data from the AIRLab Kinect Blob Tracker PDE software by Halfdan Hauch
+ * at URL: https://github.com/airlabitu/Processing-kinect-blob-tracker
  */
 
 import oscP5.*;
