@@ -3,6 +3,9 @@ Source codes from course project "MÆSH", Interactive Materiality Q1 24/25 TU/e.
 All sketches are named A/P# with respect to software and time of progression in process.
 As such each sketch as a rule of thumb builds on the previous sketch.
 
+Relies on the Kinect Blob Tracking library by Halfdan Hauch:
+https://github.com/airlabitu/Processing-kinect-blob-tracker
+
 Thomas Kaufmanas, Giulia Talamini, Anton Hallstrup.
 November, 2024.
 
